@@ -1,0 +1,165 @@
+C:\Users\hp\Desktop\proj\BatailleNavale\BatailleNavale\bin\Debug\net6.0\BatailleNavale.exe
+C:\Users\hp\Desktop\proj\BatailleNavale\BatailleNavale\bin\Debug\net6.0\BatailleNavale.deps.json
+C:\Users\hp\Desktop\proj\BatailleNavale\BatailleNavale\bin\Debug\net6.0\BatailleNavale.runtimeconfig.json
+C:\Users\hp\Desktop\proj\BatailleNavale\BatailleNavale\bin\Debug\net6.0\BatailleNavale.dll
+C:\Users\hp\Desktop\proj\BatailleNavale\BatailleNavale\bin\Debug\net6.0\BatailleNavale.pdb
+C:\Users\hp\Desktop\proj\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\proj\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\proj\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\proj\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.AssemblyInfo.cs
+C:\Users\hp\Desktop\proj\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\proj\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.dll
+C:\Users\hp\Desktop\proj\BatailleNavale\BatailleNavale\obj\Debug\net6.0\refint\BatailleNavale.dll
+C:\Users\hp\Desktop\proj\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.pdb
+C:\Users\hp\Desktop\proj\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.genruntimeconfig.cache
+C:\Users\hp\Desktop\proj\BatailleNavale\BatailleNavale\obj\Debug\net6.0\ref\BatailleNavale.dll
+C:\Users\hp\Desktop\BatailleNavale\BatailleNavale\bin\Debug\net6.0\BatailleNavale.exe
+C:\Users\hp\Desktop\BatailleNavale\BatailleNavale\bin\Debug\net6.0\BatailleNavale.deps.json
+C:\Users\hp\Desktop\BatailleNavale\BatailleNavale\bin\Debug\net6.0\BatailleNavale.runtimeconfig.json
+C:\Users\hp\Desktop\BatailleNavale\BatailleNavale\bin\Debug\net6.0\BatailleNavale.dll
+C:\Users\hp\Desktop\BatailleNavale\BatailleNavale\bin\Debug\net6.0\BatailleNavale.pdb
+C:\Users\hp\Desktop\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.AssemblyInfo.cs
+C:\Users\hp\Desktop\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.dll
+C:\Users\hp\Desktop\BatailleNavale\BatailleNavale\obj\Debug\net6.0\refint\BatailleNavale.dll
+C:\Users\hp\Desktop\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.pdb
+C:\Users\hp\Desktop\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.genruntimeconfig.cache
+C:\Users\hp\Desktop\BatailleNavale\BatailleNavale\obj\Debug\net6.0\ref\BatailleNavale.dll
+C:\Users\enkod\Desktop\BatailleNavaleGit\BatailleNavale\bin\Debug\net6.0\BatailleNavale.exe
+C:\Users\enkod\Desktop\BatailleNavaleGit\BatailleNavale\bin\Debug\net6.0\BatailleNavale.deps.json
+C:\Users\enkod\Desktop\BatailleNavaleGit\BatailleNavale\bin\Debug\net6.0\BatailleNavale.runtimeconfig.json
+C:\Users\enkod\Desktop\BatailleNavaleGit\BatailleNavale\bin\Debug\net6.0\BatailleNavale.dll
+C:\Users\enkod\Desktop\BatailleNavaleGit\BatailleNavale\bin\Debug\net6.0\BatailleNavale.pdb
+C:\Users\enkod\Desktop\BatailleNavaleGit\BatailleNavale\obj\Debug\net6.0\BatailleNavale.csproj.AssemblyReference.cache
+C:\Users\enkod\Desktop\BatailleNavaleGit\BatailleNavale\obj\Debug\net6.0\BatailleNavale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enkod\Desktop\BatailleNavaleGit\BatailleNavale\obj\Debug\net6.0\BatailleNavale.AssemblyInfoInputs.cache
+C:\Users\enkod\Desktop\BatailleNavaleGit\BatailleNavale\obj\Debug\net6.0\BatailleNavale.AssemblyInfo.cs
+C:\Users\enkod\Desktop\BatailleNavaleGit\BatailleNavale\obj\Debug\net6.0\BatailleNavale.csproj.CoreCompileInputs.cache
+C:\Users\enkod\Desktop\BatailleNavaleGit\BatailleNavale\obj\Debug\net6.0\BatailleNavale.dll
+C:\Users\enkod\Desktop\BatailleNavaleGit\BatailleNavale\obj\Debug\net6.0\refint\BatailleNavale.dll
+C:\Users\enkod\Desktop\BatailleNavaleGit\BatailleNavale\obj\Debug\net6.0\BatailleNavale.pdb
+C:\Users\enkod\Desktop\BatailleNavaleGit\BatailleNavale\obj\Debug\net6.0\BatailleNavale.genruntimeconfig.cache
+C:\Users\enkod\Desktop\BatailleNavaleGit\BatailleNavale\obj\Debug\net6.0\ref\BatailleNavale.dll
+C:\Users\Arthur\source\repos\BatailleNavale1\BatailleNavale\obj\Debug\net6.0\BatailleNavale.dll
+C:\Users\Arthur\source\repos\BatailleNavale1\BatailleNavale\obj\Debug\net6.0\refint\BatailleNavale.dll
+C:\Users\Arthur\source\repos\BatailleNavale1\BatailleNavale\obj\Debug\net6.0\BatailleNavale.pdb
+C:\Users\Arthur\source\repos\BatailleNavale1\BatailleNavale\obj\Debug\net6.0\BatailleNavale.csproj.AssemblyReference.cache
+C:\Users\Arthur\source\repos\BatailleNavale1\BatailleNavale\obj\Debug\net6.0\BatailleNavale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\source\repos\BatailleNavale1\BatailleNavale\obj\Debug\net6.0\BatailleNavale.AssemblyInfoInputs.cache
+C:\Users\Arthur\source\repos\BatailleNavale1\BatailleNavale\obj\Debug\net6.0\BatailleNavale.AssemblyInfo.cs
+C:\Users\Arthur\source\repos\BatailleNavale1\BatailleNavale\obj\Debug\net6.0\BatailleNavale.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\source\repos\BatailleNavale1\BatailleNavale\bin\Debug\net6.0\BatailleNavale.exe
+C:\Users\Arthur\source\repos\BatailleNavale1\BatailleNavale\bin\Debug\net6.0\BatailleNavale.deps.json
+C:\Users\Arthur\source\repos\BatailleNavale1\BatailleNavale\bin\Debug\net6.0\BatailleNavale.runtimeconfig.json
+C:\Users\Arthur\source\repos\BatailleNavale1\BatailleNavale\bin\Debug\net6.0\BatailleNavale.dll
+C:\Users\Arthur\source\repos\BatailleNavale1\BatailleNavale\bin\Debug\net6.0\BatailleNavale.pdb
+C:\Users\Arthur\source\repos\BatailleNavale1\BatailleNavale\obj\Debug\net6.0\BatailleNavale.genruntimeconfig.cache
+C:\Users\Arthur\source\repos\BatailleNavale1\BatailleNavale\obj\Debug\net6.0\ref\BatailleNavale.dll
+C:\Users\Arthur\source\repos\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.csproj.AssemblyReference.cache
+C:\Users\Arthur\source\repos\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\source\repos\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.AssemblyInfoInputs.cache
+C:\Users\Arthur\source\repos\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.AssemblyInfo.cs
+C:\Users\Arthur\source\repos\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\source\repos\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.dll
+C:\Users\Arthur\source\repos\BatailleNavale\BatailleNavale\obj\Debug\net6.0\refint\BatailleNavale.dll
+C:\Users\Arthur\source\repos\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.pdb
+C:\Users\Arthur\source\repos\BatailleNavale\BatailleNavale\bin\Debug\net6.0\BatailleNavale.exe
+C:\Users\Arthur\source\repos\BatailleNavale\BatailleNavale\bin\Debug\net6.0\BatailleNavale.deps.json
+C:\Users\Arthur\source\repos\BatailleNavale\BatailleNavale\bin\Debug\net6.0\BatailleNavale.runtimeconfig.json
+C:\Users\Arthur\source\repos\BatailleNavale\BatailleNavale\bin\Debug\net6.0\BatailleNavale.dll
+C:\Users\Arthur\source\repos\BatailleNavale\BatailleNavale\bin\Debug\net6.0\BatailleNavale.pdb
+C:\Users\Arthur\source\repos\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.genruntimeconfig.cache
+C:\Users\Arthur\source\repos\BatailleNavale\BatailleNavale\obj\Debug\net6.0\ref\BatailleNavale.dll
+C:\Users\hp\Desktop\3-LA MANU - .Net\1-Projets\BatailleNavale\BatailleNavale\BatailleNavale\bin\Debug\net6.0\BatailleNavale.exe
+C:\Users\hp\Desktop\3-LA MANU - .Net\1-Projets\BatailleNavale\BatailleNavale\BatailleNavale\bin\Debug\net6.0\BatailleNavale.deps.json
+C:\Users\hp\Desktop\3-LA MANU - .Net\1-Projets\BatailleNavale\BatailleNavale\BatailleNavale\bin\Debug\net6.0\BatailleNavale.runtimeconfig.json
+C:\Users\hp\Desktop\3-LA MANU - .Net\1-Projets\BatailleNavale\BatailleNavale\BatailleNavale\bin\Debug\net6.0\BatailleNavale.dll
+C:\Users\hp\Desktop\3-LA MANU - .Net\1-Projets\BatailleNavale\BatailleNavale\BatailleNavale\bin\Debug\net6.0\BatailleNavale.pdb
+C:\Users\hp\Desktop\3-LA MANU - .Net\1-Projets\BatailleNavale\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\3-LA MANU - .Net\1-Projets\BatailleNavale\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\3-LA MANU - .Net\1-Projets\BatailleNavale\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\3-LA MANU - .Net\1-Projets\BatailleNavale\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.AssemblyInfo.cs
+C:\Users\hp\Desktop\3-LA MANU - .Net\1-Projets\BatailleNavale\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\3-LA MANU - .Net\1-Projets\BatailleNavale\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.dll
+C:\Users\hp\Desktop\3-LA MANU - .Net\1-Projets\BatailleNavale\BatailleNavale\BatailleNavale\obj\Debug\net6.0\refint\BatailleNavale.dll
+C:\Users\hp\Desktop\3-LA MANU - .Net\1-Projets\BatailleNavale\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.pdb
+C:\Users\hp\Desktop\3-LA MANU - .Net\1-Projets\BatailleNavale\BatailleNavale\BatailleNavale\obj\Debug\net6.0\BatailleNavale.genruntimeconfig.cache
+C:\Users\hp\Desktop\3-LA MANU - .Net\1-Projets\BatailleNavale\BatailleNavale\BatailleNavale\obj\Debug\net6.0\ref\BatailleNavale.dll
+C:\Users\Arthur\source\repos\BatailleNavale-affichage\BatailleNavale\obj\Debug\net6.0\BatailleNavale.csproj.AssemblyReference.cache
+C:\Users\Arthur\source\repos\BatailleNavale-affichage\BatailleNavale\obj\Debug\net6.0\BatailleNavale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\source\repos\BatailleNavale-affichage\BatailleNavale\obj\Debug\net6.0\BatailleNavale.AssemblyInfoInputs.cache
+C:\Users\Arthur\source\repos\BatailleNavale-affichage\BatailleNavale\obj\Debug\net6.0\BatailleNavale.AssemblyInfo.cs
+C:\Users\Arthur\source\repos\BatailleNavale-affichage\BatailleNavale\obj\Debug\net6.0\BatailleNavale.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\source\repos\BatailleNavale-affichage\BatailleNavale\obj\Debug\net6.0\BatailleNavale.dll
+C:\Users\Arthur\source\repos\BatailleNavale-affichage\BatailleNavale\obj\Debug\net6.0\refint\BatailleNavale.dll
+C:\Users\Arthur\source\repos\BatailleNavale-affichage\BatailleNavale\obj\Debug\net6.0\BatailleNavale.pdb
+C:\Users\Arthur\source\repos\BatailleNavale-affichage\BatailleNavale\bin\Debug\net6.0\BatailleNavale.exe
+C:\Users\Arthur\source\repos\BatailleNavale-affichage\BatailleNavale\bin\Debug\net6.0\BatailleNavale.deps.json
+C:\Users\Arthur\source\repos\BatailleNavale-affichage\BatailleNavale\bin\Debug\net6.0\BatailleNavale.runtimeconfig.json
+C:\Users\Arthur\source\repos\BatailleNavale-affichage\BatailleNavale\bin\Debug\net6.0\BatailleNavale.dll
+C:\Users\Arthur\source\repos\BatailleNavale-affichage\BatailleNavale\bin\Debug\net6.0\BatailleNavale.pdb
+C:\Users\Arthur\source\repos\BatailleNavale-affichage\BatailleNavale\obj\Debug\net6.0\BatailleNavale.genruntimeconfig.cache
+C:\Users\Arthur\source\repos\BatailleNavale-affichage\BatailleNavale\obj\Debug\net6.0\ref\BatailleNavale.dll
+C:\Users\hp\Desktop\bataille navale (version 1 stable)\BatailleNavale-master\BatailleNavale\bin\Debug\net6.0\BatailleNavale.exe
+C:\Users\hp\Desktop\bataille navale (version 1 stable)\BatailleNavale-master\BatailleNavale\bin\Debug\net6.0\BatailleNavale.deps.json
+C:\Users\hp\Desktop\bataille navale (version 1 stable)\BatailleNavale-master\BatailleNavale\bin\Debug\net6.0\BatailleNavale.runtimeconfig.json
+C:\Users\hp\Desktop\bataille navale (version 1 stable)\BatailleNavale-master\BatailleNavale\bin\Debug\net6.0\BatailleNavale.dll
+C:\Users\hp\Desktop\bataille navale (version 1 stable)\BatailleNavale-master\BatailleNavale\bin\Debug\net6.0\BatailleNavale.pdb
+C:\Users\hp\Desktop\bataille navale (version 1 stable)\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\bataille navale (version 1 stable)\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\bataille navale (version 1 stable)\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\bataille navale (version 1 stable)\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.AssemblyInfo.cs
+C:\Users\hp\Desktop\bataille navale (version 1 stable)\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\bataille navale (version 1 stable)\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.dll
+C:\Users\hp\Desktop\bataille navale (version 1 stable)\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\refint\BatailleNavale.dll
+C:\Users\hp\Desktop\bataille navale (version 1 stable)\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.pdb
+C:\Users\hp\Desktop\bataille navale (version 1 stable)\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.genruntimeconfig.cache
+C:\Users\hp\Desktop\bataille navale (version 1 stable)\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\ref\BatailleNavale.dll
+C:\Users\enkod\Desktop\Dev Formation\bataille_navale_version_2_stable\bataille navale (version 2 stable)\BatailleNavale-master\BatailleNavale\bin\Debug\net6.0\BatailleNavale.exe
+C:\Users\enkod\Desktop\Dev Formation\bataille_navale_version_2_stable\bataille navale (version 2 stable)\BatailleNavale-master\BatailleNavale\bin\Debug\net6.0\BatailleNavale.deps.json
+C:\Users\enkod\Desktop\Dev Formation\bataille_navale_version_2_stable\bataille navale (version 2 stable)\BatailleNavale-master\BatailleNavale\bin\Debug\net6.0\BatailleNavale.runtimeconfig.json
+C:\Users\enkod\Desktop\Dev Formation\bataille_navale_version_2_stable\bataille navale (version 2 stable)\BatailleNavale-master\BatailleNavale\bin\Debug\net6.0\BatailleNavale.dll
+C:\Users\enkod\Desktop\Dev Formation\bataille_navale_version_2_stable\bataille navale (version 2 stable)\BatailleNavale-master\BatailleNavale\bin\Debug\net6.0\BatailleNavale.pdb
+C:\Users\enkod\Desktop\Dev Formation\bataille_navale_version_2_stable\bataille navale (version 2 stable)\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.csproj.AssemblyReference.cache
+C:\Users\enkod\Desktop\Dev Formation\bataille_navale_version_2_stable\bataille navale (version 2 stable)\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enkod\Desktop\Dev Formation\bataille_navale_version_2_stable\bataille navale (version 2 stable)\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.AssemblyInfoInputs.cache
+C:\Users\enkod\Desktop\Dev Formation\bataille_navale_version_2_stable\bataille navale (version 2 stable)\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.AssemblyInfo.cs
+C:\Users\enkod\Desktop\Dev Formation\bataille_navale_version_2_stable\bataille navale (version 2 stable)\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.csproj.CoreCompileInputs.cache
+C:\Users\enkod\Desktop\Dev Formation\bataille_navale_version_2_stable\bataille navale (version 2 stable)\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.dll
+C:\Users\enkod\Desktop\Dev Formation\bataille_navale_version_2_stable\bataille navale (version 2 stable)\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\refint\BatailleNavale.dll
+C:\Users\enkod\Desktop\Dev Formation\bataille_navale_version_2_stable\bataille navale (version 2 stable)\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.pdb
+C:\Users\enkod\Desktop\Dev Formation\bataille_navale_version_2_stable\bataille navale (version 2 stable)\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.genruntimeconfig.cache
+C:\Users\enkod\Desktop\Dev Formation\bataille_navale_version_2_stable\bataille navale (version 2 stable)\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\ref\BatailleNavale.dll
+C:\Users\Arthur\source\repos\BatailleNavale-master\BatailleNavale\bin\Debug\net6.0\BatailleNavale.exe
+C:\Users\Arthur\source\repos\BatailleNavale-master\BatailleNavale\bin\Debug\net6.0\BatailleNavale.deps.json
+C:\Users\Arthur\source\repos\BatailleNavale-master\BatailleNavale\bin\Debug\net6.0\BatailleNavale.runtimeconfig.json
+C:\Users\Arthur\source\repos\BatailleNavale-master\BatailleNavale\bin\Debug\net6.0\BatailleNavale.dll
+C:\Users\Arthur\source\repos\BatailleNavale-master\BatailleNavale\bin\Debug\net6.0\BatailleNavale.pdb
+C:\Users\Arthur\source\repos\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.csproj.AssemblyReference.cache
+C:\Users\Arthur\source\repos\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\source\repos\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.AssemblyInfoInputs.cache
+C:\Users\Arthur\source\repos\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.AssemblyInfo.cs
+C:\Users\Arthur\source\repos\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\source\repos\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.dll
+C:\Users\Arthur\source\repos\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\refint\BatailleNavale.dll
+C:\Users\Arthur\source\repos\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.pdb
+C:\Users\Arthur\source\repos\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.genruntimeconfig.cache
+C:\Users\Arthur\source\repos\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\ref\BatailleNavale.dll
+C:\Users\enkod\Desktop\Dev Formation\EnCours\BatailleNavale-master\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.csproj.AssemblyReference.cache
+C:\Users\enkod\Desktop\Dev Formation\EnCours\BatailleNavale-master\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enkod\Desktop\Dev Formation\EnCours\BatailleNavale-master\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.AssemblyInfoInputs.cache
+C:\Users\enkod\Desktop\Dev Formation\EnCours\BatailleNavale-master\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.AssemblyInfo.cs
+C:\Users\enkod\Desktop\Dev Formation\EnCours\BatailleNavale-master\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.csproj.CoreCompileInputs.cache
+C:\Users\enkod\Desktop\Dev Formation\EnCours\BatailleNavale-master\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.dll
+C:\Users\enkod\Desktop\Dev Formation\EnCours\BatailleNavale-master\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\refint\BatailleNavale.dll
+C:\Users\enkod\Desktop\Dev Formation\EnCours\BatailleNavale-master\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.pdb
+C:\Users\enkod\Desktop\Dev Formation\EnCours\BatailleNavale-master\BatailleNavale-master\BatailleNavale\bin\Debug\net6.0\BatailleNavale.exe
+C:\Users\enkod\Desktop\Dev Formation\EnCours\BatailleNavale-master\BatailleNavale-master\BatailleNavale\bin\Debug\net6.0\BatailleNavale.deps.json
+C:\Users\enkod\Desktop\Dev Formation\EnCours\BatailleNavale-master\BatailleNavale-master\BatailleNavale\bin\Debug\net6.0\BatailleNavale.runtimeconfig.json
+C:\Users\enkod\Desktop\Dev Formation\EnCours\BatailleNavale-master\BatailleNavale-master\BatailleNavale\bin\Debug\net6.0\BatailleNavale.dll
+C:\Users\enkod\Desktop\Dev Formation\EnCours\BatailleNavale-master\BatailleNavale-master\BatailleNavale\bin\Debug\net6.0\BatailleNavale.pdb
+C:\Users\enkod\Desktop\Dev Formation\EnCours\BatailleNavale-master\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\BatailleNavale.genruntimeconfig.cache
+C:\Users\enkod\Desktop\Dev Formation\EnCours\BatailleNavale-master\BatailleNavale-master\BatailleNavale\obj\Debug\net6.0\ref\BatailleNavale.dll
